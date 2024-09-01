@@ -38,18 +38,13 @@ MAXLIMIT = 1000
 #Updated Python's naming conventions
 
 pi_value = 3.14
-a = type(pi_value)
-
+PI_VALUE = 3.14
 user_age = 25
-b = type(user_age)
-
-userLocation = "New York"
-c = userLocation
-
-maxlimit = 1000
-d = type(maxlimit)
-
-print(a, b, c, d)
+USER_AGE = 25
+user_location = "New York"
+USER_LOCATION = "New York"
+max_limit = 1000
+MAX_LIMIT = 1000
 
 #3. Arithmetic Operations in Daily Life
 #Objective: 
